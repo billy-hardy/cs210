@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/whardy2/!svn/ver/146/src/project/statements/dml
+END
+DeleteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/whardy2/!svn/ver/146/src/project/statements/dml/DeleteCommand.java
+END
+UpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/whardy2/!svn/ver/146/src/project/statements/dml/UpdateCommand.java
+END
+InsertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/whardy2/!svn/ver/146/src/project/statements/dml/InsertCommand.java
+END

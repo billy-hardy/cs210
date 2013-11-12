@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/whardy2/!svn/ver/193/src/project/data/persistor
+END
+XmlSaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/whardy2/!svn/ver/178/src/project/data/persistor/XmlSaver.java
+END
+SAXReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/whardy2/!svn/ver/193/src/project/data/persistor/SAXReader.java
+END
+XmlEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/whardy2/!svn/ver/188/src/project/data/persistor/XmlEncoder.java
+END

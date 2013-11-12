@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings
+END
+org.eclipse.debug.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+END
+org.eclipse.ui.ide.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+END
+org.eclipse.team.cvs.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.cvs.ui.prefs
+END
+org.eclipse.team.svn.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.svn.core.prefs
+END
+org.eclipse.team.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+END
+org.eclipse.ui.workbench.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+END
+org.eclipse.team.svn.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.svn.ui.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.jdt.launching.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+END
+org.eclipse.ui.editors.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/whardy2/!svn/ver/41/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs
+END

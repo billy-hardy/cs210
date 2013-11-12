@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/whardy2/!svn/ver/195/src/project/data/fields
+END
+VarcharField.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/whardy2/!svn/ver/185/src/project/data/fields/VarcharField.java
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/whardy2/!svn/ver/185/src/project/data/fields/DateField.java
+END
+IntegerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/whardy2/!svn/ver/185/src/project/data/fields/IntegerField.java
+END
+RealField.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/whardy2/!svn/ver/185/src/project/data/fields/RealField.java
+END
+AbstractField.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/whardy2/!svn/ver/195/src/project/data/fields/AbstractField.java
+END
+CharField.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/whardy2/!svn/ver/187/src/project/data/fields/CharField.java
+END
+BooleanField.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/whardy2/!svn/ver/185/src/project/data/fields/BooleanField.java
+END

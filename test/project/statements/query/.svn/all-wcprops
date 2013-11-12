@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/whardy2/!svn/ver/172/test/project/statements/query
+END
+IntersectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/whardy2/!svn/ver/172/test/project/statements/query/IntersectCommandTest.java
+END
+UnionCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/whardy2/!svn/ver/172/test/project/statements/query/UnionCommandTest.java
+END
+MinusCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/whardy2/!svn/ver/172/test/project/statements/query/MinusCommandTest.java
+END
+ProjectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/whardy2/!svn/ver/172/test/project/statements/query/ProjectCommandTest.java
+END
+JoinCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/whardy2/!svn/ver/172/test/project/statements/query/JoinCommandTest.java
+END
+SelectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/whardy2/!svn/ver/172/test/project/statements/query/SelectCommandTest.java
+END

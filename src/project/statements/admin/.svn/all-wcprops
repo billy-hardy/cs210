@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/whardy2/!svn/ver/195/src/project/statements/admin
+END
+PrintCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/whardy2/!svn/ver/195/src/project/statements/admin/PrintCommand.java
+END
+RestoreCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/whardy2/!svn/ver/173/src/project/statements/admin/RestoreCommand.java
+END
+ExitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/whardy2/!svn/ver/178/src/project/statements/admin/ExitCommand.java
+END
+BackupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/whardy2/!svn/ver/173/src/project/statements/admin/BackupCommand.java
+END
+ReadCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/whardy2/!svn/ver/133/src/project/statements/admin/ReadCommand.java
+END

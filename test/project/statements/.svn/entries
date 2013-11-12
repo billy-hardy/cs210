@@ -1,0 +1,74 @@
+10
+
+dir
+195
+https://cs210svn.lcsee.wvu.edu/whardy2/test/project/statements
+https://cs210svn.lcsee.wvu.edu/whardy2
+
+
+
+2012-11-24T04:58:21.799074Z
+187
+whardy2
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c723f-e803-47ff-a97c-18c10a93a4ba
+
+AbstractCommandTest.java
+file
+
+
+
+
+2012-11-30T10:17:19.000000Z
+4ddb43c63d55371797524bb1beed3f0a
+2012-10-17T21:53:23.648484Z
+143
+whardy2
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+592
+
+admin
+dir
+
+ddl
+dir
+
+dml
+dir
+
+query
+dir
+

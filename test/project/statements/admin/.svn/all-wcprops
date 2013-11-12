@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/whardy2/!svn/ver/187/test/project/statements/admin
+END
+PrintCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/whardy2/!svn/ver/187/test/project/statements/admin/PrintCommandTest.java
+END
+ExitCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/whardy2/!svn/ver/187/test/project/statements/admin/ExitCommandTest.java
+END
+RestoreCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/whardy2/!svn/ver/111/test/project/statements/admin/RestoreCommandTest.java
+END
+BackupCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/whardy2/!svn/ver/111/test/project/statements/admin/BackupCommandTest.java
+END
+ReadCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/whardy2/!svn/ver/187/test/project/statements/admin/ReadCommandTest.java
+END

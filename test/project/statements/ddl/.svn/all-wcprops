@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/whardy2/!svn/ver/187/test/project/statements/ddl
+END
+RenameCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/whardy2/!svn/ver/187/test/project/statements/ddl/RenameCommandTest.java
+END
+DropCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/whardy2/!svn/ver/187/test/project/statements/ddl/DropCommandTest.java
+END
+DefineTableCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/whardy2/!svn/ver/111/test/project/statements/ddl/DefineTableCommandTest.java
+END
+DefineIndexCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/whardy2/!svn/ver/187/test/project/statements/ddl/DefineIndexCommandTest.java
+END
