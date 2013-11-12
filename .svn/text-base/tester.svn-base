@@ -1,6 +1,0 @@
-define table emp having fields (sal  integer, clearance real, startdate date);
-define table cats having fields (tails integer, lives integer, color varchar, alive boolean);
-define table class having fields (time real, required boolean);
-define table data having fields (file char(11));
-print dictionary;
-define table emp1 having fields (sal integer  , clearance   integer,   salary real);
